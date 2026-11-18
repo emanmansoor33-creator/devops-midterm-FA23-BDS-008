@@ -1,0 +1,5 @@
+.git
+configs
+artifacts
+__pycache__
+*.pyc
